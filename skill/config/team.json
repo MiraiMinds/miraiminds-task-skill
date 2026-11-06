@@ -1,0 +1,27 @@
+{
+  "skill_version": "1.0.0",
+  "company": "MiraiMinds",
+  "tracker_url": "https://tracker.miraiminds.co",
+  "workspace_slug": "workspace---miraiminds",
+  "token_page_url": "https://tracker.miraiminds.co/settings/profile/api-tokens/",
+  "item_url_template": "https://tracker.miraiminds.co/workspace---miraiminds/browse/{ref}/",
+  "mcp_server_name": "miraiminds-tracker",
+  "mcp_server_package": "plane-mcp-server==0.3.5",
+  "emergency_contact": {
+    "name": "Sagar",
+    "phone": "+916353764284",
+    "display": "+91 63537 64284"
+  },
+  "team_time": {
+    "label": "India time (IST)",
+    "utc_offset": "+05:30"
+  },
+  "working_days": ["Mon", "Tue", "Wed", "Thu", "Fri"],
+  "working_hours": {
+    "start": "10:00",
+    "end": "18:00"
+  },
+  "holidays": [],
+  "review_turnaround_working_days": 1,
+  "upload_limit_mb": 5
+}
